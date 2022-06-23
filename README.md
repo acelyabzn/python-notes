@@ -6,4 +6,4 @@
 
 💻I Give Myself 100 Days To Learn Python
 
-🚩Estimated Start Date: 22 June 2022
+🚩Start Date: 22 June 2022
