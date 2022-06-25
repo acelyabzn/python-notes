@@ -56,7 +56,7 @@ print(s) # Cevabımız "Hello World".
 # 7. İstek:
 abc = "abc "
 multiplication = abc * 3
-print(multiplication) # Cevabımız "abcabcabc".
+print(multiplication) # Cevabımız "abc abc abc".
 
 # 8. İstek:
 name, surname, age, job = "Sadık","Turan", 37, "eğitimci"
