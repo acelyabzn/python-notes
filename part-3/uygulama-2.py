@@ -75,7 +75,7 @@ print(result_2)
 
 # 11. İstek:
 kursAdi = "Python Dersleri: Sıfırdan İleri Seviye Python Programlama."
-print(kursAdi.split())
+print(kursAdi.split()) # Cevabımız: ['Python', 'Dersleri:', 'Sıfırdan', 'İleri', 'Seviye', 'Python', 'Programlama.']
 
 """
 Şimdi Cevapları Kontrol Ediyorum..
