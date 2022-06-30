@@ -6,7 +6,7 @@
 # 1. İstek:
 """1. Ürünün Bilgileri"""
 
-urunler = {}# Boş bir Dictionary
+urunler = {} # Boş bir Dictionary
 
 ad_bilgisi = input("1. Ürünün Adı: ")
 id_bilgisi = input("1. Ürünün ID: ")
